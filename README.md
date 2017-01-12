@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+not just another repository
+This is a repository of information about me.  
